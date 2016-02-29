@@ -51,7 +51,9 @@ li {
 .title img {
     display: block;
     width: 120px;
+    height: 120px;
     margin: 0 auto 15px;
+    border-radius: 50%
 }
 
 h1 {
